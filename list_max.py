@@ -14,5 +14,5 @@ def list_max(num_list):
     return value if value > num_list[0] else num_list[0]
 
 
-num_list = [5, 9, 45, 6, 11, 22]
-print(str(list_max(num_list)))
+# num_list = [5, 9, 45, 6, 11, 22]
+# print(str(list_max(num_list)))
